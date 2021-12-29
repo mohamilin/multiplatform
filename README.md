@@ -5,7 +5,7 @@
    - Comments
    - variable
    - Data Types
-     - ![gambar]('./../learn_dart/assets/datatype.jpg')
+     - ![gambar]('./assets/datatype.jpg')
    - Number
    - 
 #### Belajar Prinsip Pemrograman SOLID
