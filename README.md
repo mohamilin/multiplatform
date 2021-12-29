@@ -5,7 +5,7 @@
    - Comments
    - variable
    - Data Types
-     - ![gambar]('./../assets/datatype.jpg')
+     - ![gambar]('https://github.com/mohamilin/multiplatform/blob/main/assets/datatype.jpg')
    - Number
    - 
 #### Belajar Prinsip Pemrograman SOLID
